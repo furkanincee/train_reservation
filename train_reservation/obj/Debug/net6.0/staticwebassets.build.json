@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "rwU7jGBYC54lEfCHhyl95VcDVrOR75yET1WXBk71IRw=",
+  "Source": "train_reservation",
+  "BasePath": "_content/train_reservation",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "bRyzp4fVJrd9RvSMhP74ZarjW3iuv86FoG1uJd78g9NnMaStdxokbOM1R0r5rBoZbhE5a9IyHPelDLUOqOyyeA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\furka\\OneDrive\\Masaüstü\\train_reservation\\train_reservation\\train_reservation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\furka\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\furka\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\furka\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\furka\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\furka\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\furka\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
